@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruittables", "Fruittables\Fruittables.csproj", "{E2173FEF-3A29-4CE8-85A0-54F005505505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2173FEF-3A29-4CE8-85A0-54F005505505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2173FEF-3A29-4CE8-85A0-54F005505505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2173FEF-3A29-4CE8-85A0-54F005505505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2173FEF-3A29-4CE8-85A0-54F005505505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC5CEFF-84B6-4645-8155-2E2E45D94C29}
+	EndGlobalSection
+EndGlobal
