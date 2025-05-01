@@ -4,8 +4,9 @@
     {
         public  string Name { get; set; }
         public decimal Price { get; set; }
+        public decimal Volume { get; set; }
 
-        //public string SKU { get; set; }
+
         public string Description { get; set; }
         //relational
         public int CategoryId { get; set; }

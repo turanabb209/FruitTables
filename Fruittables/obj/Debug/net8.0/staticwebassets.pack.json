@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\Giorgio1.jpg",
+      "PackagePath": "staticwebassets\\img\\Giorgio1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\Giorgio2.jpg",
+      "PackagePath": "staticwebassets\\img\\Giorgio2.jpg"
+    },
+    {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },
@@ -45,8 +53,60 @@
       "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
     },
     {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\black1.jpg",
+      "PackagePath": "staticwebassets\\img\\black1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\black2.jpg",
+      "PackagePath": "staticwebassets\\img\\black2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\black3.jpg",
+      "PackagePath": "staticwebassets\\img\\black3.jpg"
+    },
+    {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\chanel1.jpg",
+      "PackagePath": "staticwebassets\\img\\chanel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\chanel2.jpg",
+      "PackagePath": "staticwebassets\\img\\chanel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\chanel3.jpg",
+      "PackagePath": "staticwebassets\\img\\chanel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\chanel4.jpg",
+      "PackagePath": "staticwebassets\\img\\chanel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\cred1.jpg",
+      "PackagePath": "staticwebassets\\img\\cred1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\cred2.jpg",
+      "PackagePath": "staticwebassets\\img\\cred2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\dior1.jpg",
+      "PackagePath": "staticwebassets\\img\\dior1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\dior2.jpg",
+      "PackagePath": "staticwebassets\\img\\dior2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\dior2.png",
+      "PackagePath": "staticwebassets\\img\\dior2.png"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\dior3.jpg",
+      "PackagePath": "staticwebassets\\img\\dior3.jpg"
     },
     {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\featur-1.jpg",
@@ -85,6 +145,18 @@
       "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
     },
     {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\gio1.jpg",
+      "PackagePath": "staticwebassets\\img\\gio1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\gio2.jpg",
+      "PackagePath": "staticwebassets\\img\\gio2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\gio3.jpg",
+      "PackagePath": "staticwebassets\\img\\gio3.jpg"
+    },
+    {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\hero-img-1.png",
       "PackagePath": "staticwebassets\\img\\hero-img-1.png"
     },
@@ -101,12 +173,40 @@
       "PackagePath": "staticwebassets\\img\\payment.png"
     },
     {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\sauvage1.jpg",
+      "PackagePath": "staticwebassets\\img\\sauvage1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\sauvage2.jpg",
+      "PackagePath": "staticwebassets\\img\\sauvage2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\sauvage3.jpg",
+      "PackagePath": "staticwebassets\\img\\sauvage3.jpg"
+    },
+    {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\single-item.jpg",
       "PackagePath": "staticwebassets\\img\\single-item.jpg"
     },
     {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\tom1.jpg",
+      "PackagePath": "staticwebassets\\img\\tom1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\tom2.jpg",
+      "PackagePath": "staticwebassets\\img\\tom2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\vanil1.jpg",
+      "PackagePath": "staticwebassets\\img\\vanil1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\vanil2.jpg",
+      "PackagePath": "staticwebassets\\img\\vanil2.jpg"
     },
     {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\vegetable-item-1.jpg",
@@ -131,6 +231,22 @@
     {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\vegetable-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\yves1.jpg",
+      "PackagePath": "staticwebassets\\img\\yves1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\yves2.jpg",
+      "PackagePath": "staticwebassets\\img\\yves2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\yves3.jpg",
+      "PackagePath": "staticwebassets\\img\\yves3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\img\\yves4.jpg",
+      "PackagePath": "staticwebassets\\img\\yves4.jpg"
     },
     {
       "Id": "C:\\Users\\novbe2\\Desktop\\Fruittables\\Fruittables\\wwwroot\\js\\main.js",
