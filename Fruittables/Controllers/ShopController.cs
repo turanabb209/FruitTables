@@ -20,18 +20,15 @@ namespace Fruittables.Controllers
             return View();
         }
 
-        public IActionResult Detail( int? id)
+        public async Task<IActionResult> Detail( int? id)
 
         {
             if (id is null || id <= 0) return BadRequest();
 
-            Product? product = _context.Products
+            Product? product =await _context.Products
                 .Include(p => p.ProductImages.OrderByDescending(pi => pi.IsPrimqary != null))
-
-               .FirstOrDefault(p => p.Id == id);
-
-
-
+                .Include(p=>p.Category)
+              .FirstOrDefaultAsync(p => p.Id == id);
 
             if (product is null)  return NotFound();
 
@@ -39,20 +36,12 @@ namespace Fruittables.Controllers
             { 
             Product=product,
 
-            RelatedProducts= _context.Products
+            RelatedProducts= await _context.Products
             .Where(p=>p.CategoryId==product.CategoryId && p.Id!=product.Id)
             .Take(4)
             .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimqary!=null))
-            .ToList()
-        
-            
-            
-            
+            .ToListAsync()
             };
-
-
-
-
             return View(detailVM);
         }
 

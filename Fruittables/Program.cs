@@ -7,7 +7,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("server=SAMA;database=Fruittables;trusted_connection=true;integrated security=true;TrustServerCertificate=true;");
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 
 });
 
@@ -15,7 +15,16 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 var app = builder.Build();
 
-app.UseStaticFiles();
+
+
+app.MapControllerRoute(
+
+    "admin",
+    "{area:exists}/{controller=home}/{action=index}/{id?}"
+
+    );
+
+
 
 app.MapControllerRoute(
     
@@ -23,5 +32,6 @@ app.MapControllerRoute(
     "{controller=home}/{action=index}/{id?}"  
     
     );
+app.UseStaticFiles();
 
 app.Run();

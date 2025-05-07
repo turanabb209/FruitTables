@@ -14,11 +14,7 @@ namespace Fruittables.Controllers
         {
             _context = context;
         }
-
-
-
-
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             Product product = new Product();
             Category category = new Category();
@@ -26,17 +22,18 @@ namespace Fruittables.Controllers
 
             HomeVM homeVM = new HomeVM
             {
+                Slides = await _context.Slides
+                .OrderBy(s => s.Order)
+                .Take(3)
+                .TolistAsync() ,
 
-                Products = _context.Products.Take(3)
-                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimqary!=null))
+                Products = await _context.Products.Take(3)
+                .Include(p => p.ProductImages.Where(pi => pi.IsPrimqary != null))
 
-                .ToList()
+                .ToListAsync()
 
 
             };
-
-
-
             return View(homeVM);
         }
 
